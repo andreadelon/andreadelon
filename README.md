@@ -1,4 +1,4 @@
-## Hi there, I´m Andrea Delon 👋
+## Hello, I'm Andrea Delon 👋
 
 
 
