@@ -22,4 +22,4 @@ Data Scientist in process. 🤓
 ## 📭 Find me at:
 
 ![Email](https://img.shields.io/badge/Email-aodcontacto@gmail.com-572364?style=for-the-badge&logo=email&logoColor=white&labelColor=101010)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ian_Portillo-0078D7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/andrea-delon-86bb6b336)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrea_Delon-0078D7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/andrea-delon-86bb6b336)
