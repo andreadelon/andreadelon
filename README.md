@@ -2,13 +2,11 @@
 
 
 
-## 👨‍💻 About me:
+## 👩🏻‍💻 About me:
 
 Data Scientist in process. 🤓
 
-- 👀 I'm actually working at Foundever as Data Analyst
-- 🦾 I'm studing at TripleTen to become a Data Scientist.
-- 👨‍🎓 I'm an Electronics Engineer and Digital Systems Technician.
+
 
 ## 🔧 Skills:
 
