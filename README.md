@@ -32,7 +32,11 @@ Passionate about data manipulation and analysis to transform information into ac
 - 📚 In Progress: Data Scientist - Machine Learning (IBM)
 - 📚 In Progress: Data Scientist (TripleTen)
 
-## 📬 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/andrea-delon-86bb6b336) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aodcontacto@gmail.com) 
+## 📭 Find me at:
+
+![Email](https://img.shields.io/badge/Email-aodcontacto@gmail.com-572364?style=for-the-badge&logo=email&logoColor=white&labelColor=101010)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrea_Delon-0078D7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/andrea-delon-86bb6b336)
+
+
 
 🚀 Always looking for new challenges and opportunities in the **Data Science** world. Let's connect! 🤝
